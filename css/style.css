@@ -1,0 +1,7 @@
+@import "./global/global.css";
+
+/* componentes */
+@import "./componentes/tipografia.css";
+
+/* header */
+@import "./header/header.css";
